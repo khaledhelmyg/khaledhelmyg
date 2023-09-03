@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khaled Helmy</h1>
 <h3 align="center">A passionate Software Engineer, Mean stack, Mern stack, Node.js backend developer from Egypt.</h3>
 
+
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern-stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+
 - 🔭 I’m currently working on [Tech Hub](https://tech-hub-front.vercel.app/)
 
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -25,11 +33,6 @@
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledhelmyg&show_icons=true&locale=en&layout=compact" alt="khaledhelmyg" /></p>
 
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern-stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
 
 
 
