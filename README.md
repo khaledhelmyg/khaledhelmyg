@@ -5,18 +5,18 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern-stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Node.js%20Developer;Mern-stack%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 🔭 I’m currently working on [Tech Hub](https://tech-hub-front.vercel.app/)
+- 🔭 I’m currently working on [Md Soft](https://www.linkedin.com/company/md-soft-official/)
 
 - 👨‍💻 As a IT student, I'm constantly learning and exploring new technologies to improve my skills.
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Nestjs**
 
-- 💬 Ask me about **Node.js, React.js, AngularJS, Express.js, MongoDB,**
+- 💬 Ask me about **Node.js, React.js, AngularJS, Express.js, Nestjs, MongoDB,**
 
-- 📫 How to reach me **khaledhelmyabdo123@yahoo.com**
+- 📫 How to reach me **khaledhelmyelkefafy@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/16xUJsBUsq4A00cebn-M11CYPua6vqouD/edit?usp=drivesdk&ouid=104217138230679494990&rtpof=true&sd=true](https://docs.google.com/document/d/16xUJsBUsq4A00cebn-M11CYPua6vqouD/edit?usp=drivesdk&ouid=104217138230679494990&rtpof=true&sd=true)
 
