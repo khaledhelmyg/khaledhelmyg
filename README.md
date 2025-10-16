@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Khaled Helmy
 
-### 🚀 Full Stack Developer | Node.js Backend Engineer | MERN Stack Specialist
+### 🚀 Software Engineer | Node.js Backend Engineer | NestJs | MEARN Stack Specialist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Node.js+Developer;MERN+Stack+Developer;NestJS+Enthusiast;Always+Learning+New+Technologies)](https://github.com/khaledhelmyg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Node.js+Developer;MEARN+Stack+Developer;NestJS+Enthusiast+And+Microservices;Always+Learning+New+Technologies)](https://github.com/khaledhelmyg)
 
 </div>
 
@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true&theme=github_dark&cache_seconds=60&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhelmyg&theme=github_dark&hide_border=true&layout=compact)
 
