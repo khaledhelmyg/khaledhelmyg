@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true&theme=github_dark&cache_seconds=60&count_private=true)
+![GitHub Stats][![(Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledhelmyg)](https://github.com/anuraghazra/github-readme-stats))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhelmyg&theme=github_dark&hide_border=true&layout=compact)
 
