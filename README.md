@@ -101,7 +101,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-helmy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-helmy)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18642096)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/VCR6S7GI4C3MA1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledhelmyelkefafy@gmail.com)
@@ -135,7 +135,7 @@ I love connecting with developers, tech enthusiasts, and anyone interested in bu
 
 <div align="center">
 
-### [📧 Email Me](mailto:khaledhelmyelkefafy@gmail.com) | [💬 WhatsApp](https://wa.me/message/VCR6S7GI4C3MA1) | [🔗 LinkedIn](https://linkedin.com/in/khaled-helmy)
+### [📧 Email Me](mailto:khaledhelmyelkefafy@gmail.com) | [💬 WhatsApp](https://wa.me/message/VCR6S7GI4C3MA1) | [🔗 LinkedIn](https://linkedin.com/in/khalid-helmy)
 
 </div>
 
