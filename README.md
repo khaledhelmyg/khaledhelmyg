@@ -87,19 +87,6 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </div>
 
----
-
-## 💡 Key Statistics
-
-| 📊 Metric | 📈 Value |
-|-----------|---------|
-| ⭐ Total Stars | 36 |
-| 📝 Commits | 150+ |
-| 🔀 Pull Requests | 8 |
-| 🐛 Issues | 1 |
-
----
-
 ## 🎯 What I'm Currently Working On
 
 - 🏗️ Building scalable microservices with NestJS
