@@ -16,9 +16,10 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 - 🔭 **Currently Working**: Backend Development at **Md Soft**
 - 🌱 **Currently Learning**: **NestJS** & Advanced System Design
-- 💬 **Ask Me About**: Node.js, React.js, Express.js, NestJS, MongoDB, PostgreSQL, GraphQL
+- 💬 **Ask Me About**: Node.js, Express.js, NestJS, MongoDB, PostgreSQL, GraphQL, Angular
 - 📍 **Location**: Egypt
 - 📧 **Email**: khaledhelmyelkefafy@gmail.com
+- ❤️ **Portfolio** https://khaledhelmy.lovable.app/
 - 🎯 **Goal**: Building elegant, maintainable, and scalable solutions
 
 ---
