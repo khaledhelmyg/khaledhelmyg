@@ -47,6 +47,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhelmyg&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
