@@ -26,7 +26,7 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 ## 📊 GitHub Stats
 
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-overview?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
+[![GitHub Profile Summary Cards]([https://github-profile-summary-cards.vercel.app/api/cards/profile-overview?username=khaledhelmyg&theme=default](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledhelm&theme=apprentice))](https://github.com/khaledhelmyg)
 
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
 
