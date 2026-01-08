@@ -23,30 +23,14 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 - 🎯 **Goal**: Building elegant, maintainable, and scalable solutions
 
 ---
+
 ## 📊 GitHub Stats
 
-<div align="center">
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-overview?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true"
-    alt="GitHub stats for khaledhelmyg — contributions, stars and activity summary"
-    aria-label="GitHub stats for khaledhelmyg"
-    loading="lazy"
-  />
-</picture>
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhelmyg&theme=github_dark&hide_border=true&layout=compact)
-
-</div>
+[![Repo Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
 
 ---
 
