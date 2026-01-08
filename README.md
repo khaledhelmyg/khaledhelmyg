@@ -23,7 +23,6 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 - 🎯 **Goal**: Building elegant, maintainable, and scalable solutions
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -37,13 +36,17 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
     srcset="https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=khaledhelmyg&show_icons=true"
+    alt="GitHub stats for khaledhelmyg — contributions, stars and activity summary"
+    aria-label="GitHub stats for khaledhelmyg"
+    loading="lazy"
+  />
 </picture>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhelmyg&theme=github_dark&hide_border=true&layout=compact)
 
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
