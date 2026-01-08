@@ -28,10 +28,6 @@ I'm a passionate **Software Engineer** and **Backend Developer** currently worki
 
 [![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaledhelmyg&theme=ayu_mirage&quot)](https://github.com/khaledhelmyg)
 
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
-
-[![Repo Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khaledhelmyg&theme=default)](https://github.com/khaledhelmyg)
-
 ---
 
 ## 🛠️ Tech Stack
