@@ -120,7 +120,7 @@ I love connecting with developers, tech enthusiasts, and anyone interested in bu
 
 <div align="center">
 
-### [📧 Email Me](mailto:khaledhelmyelkefafy@gmail.com) | [💬 WhatsApp](https://wa.me/message/VCR6S7GI4C3MA1) | [🔗 LinkedIn](https://linkedin.com/in/khalid-helmy)
+### [📧 Email Me](mailto:khaledhelmyelkefafy@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/khalid-helmy)
 
 </div>
 
